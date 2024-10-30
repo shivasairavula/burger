@@ -1,0 +1,52 @@
+form{
+    border: solid 1px white;
+    width: 450px ;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+body{
+    background-image: url(image44.webp);
+    background-repeat: no-repeat;
+    background-size: 1400px 700px;
+}
+label{
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+}
+h1{
+    color:skyblue;
+    font-size: 40px;
+    text-align: center;
+}
+input{
+    height: 30px;
+    width: 200px;
+    background: none;
+    outline: none;
+    border: none;
+    border-bottom-style: solid;
+    border-bottom-color: gold;
+    border-bottom-width: 5px;
+    color: white;
+    font-size: 20px;
+}
+textarea{
+    width: 300px;
+    height: 90px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: green;
+    color: wheat;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+#Avatar{
+    border-radius: 50%;
+    position: relative;
+    left: 160px;
+    top: 20px;
+}
